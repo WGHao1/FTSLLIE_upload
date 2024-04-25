@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@sftp://omnisky@10.193.100.254:2333/home/omnisky/anaconda3/envs/zkld/bin/python3">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/media/omnisky/31c564ef-57f3-4fdf-9777-faea0d03db40/Bread-main" />
+            </list>
+          </settings>
+        </remote-mappings>
+        <remote-mappings server-id="python@sftp://omnisky@10.193.155.129:2333/home/omnisky/anaconda3/envs/zkld/bin/python3.8">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/media/omnisky/31c564ef-57f3-4fdf-9777-faea0d03db40/Bread-main" />
+            </list>
+          </settings>
+        </remote-mappings>
+      </list>
+    </list>
+  </component>
+</project>
