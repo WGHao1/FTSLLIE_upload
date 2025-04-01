@@ -28,17 +28,7 @@
 
 ### 4. Usage
 
-#### 4.1. Training 
-
-* Train ILL: ```python train_ILL.py```
-* Train NOI: ```python train_NOI.py```
-* Train DET: ```python train_DET.py```
-* Train COL: ```python train_COL.py```
-
-#### 4.2. Testing 
+#### 4.1. Testing 
 
 * Evaluation: ```python eval.py```
 
-#### 4.3. Trained weights
-
-Please refer to [our release](https://github.com/mingcv/Bread/releases/tag/checkpoints). 
